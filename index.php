@@ -6,8 +6,5 @@
     <title>Document</title>
 </head>
 <body>
-    <p>hola mundo soy Erick Aja Aguilar</p>
-    <p>Hola Mundo soy Mireya Ortiz Zarate</p>
-    <p>Hola undo soy Ricardo Cordoba Rosas</p>
 </body>
 </html>
